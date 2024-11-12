@@ -7,3 +7,5 @@ git log
 git branch просмотр всех веток
 git barnch <name> - создание новой ветки
 git checkout <имя ветки>
+git merge имя ветки - вливание в текущую ветку указанной ветки
+git branch -d <имя ветки> - удаление ветки
